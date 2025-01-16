@@ -46,6 +46,12 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 [Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension](https://arxiv.org/pdf/2405.12821), Runwei Guan, **Ruixiao Zhang**, Ningwei Ouyang, Jianan Liu, Ka Lok Man, Xiaohao Cai, Ming Xu, Jeremy Smith, Eng Gee Lim, Yutao Yue, Hui Xiong
 
+
+# 📃 Reviewer Experience
+
+- European Conference on Artificial Intelligence (ECAI)
+- International Conference on Neural Information Processing (ICONIP)
+
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, PhD in Computer Science, University of Southampton, UK. 
 - *2020.09 - 2021.09*, Master of Science in Data Science, University of Southampton, UK.
