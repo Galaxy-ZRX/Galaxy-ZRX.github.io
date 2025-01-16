@@ -44,11 +44,6 @@ My research interest includes: 3D Computer Vision, Cross-domain 3D Object Detect
 - *2020.09 - 2021.09*, Master of Science in Data Science, University of Southampton, UK.
 - *2016.09 - 2020.07*, Undergraduate in Mathematics and Applied Mathematics, East China Normal University, China.
 
-<!-- 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
---> 
 
 # 💻 Internships
 - *2019.07 - 2019.09*, Data Analyst Intern. Squirrel AI, Shanghai, China. 
