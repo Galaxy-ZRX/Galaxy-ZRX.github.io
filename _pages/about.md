@@ -28,7 +28,7 @@ My research interest includes: 3D Computer Vision, Cross-domain 3D Object Detect
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/DSC_3810.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="122222">
 
 [Detect Closer Surfaces That Can be Seen: New Modeling and Evaluation in Cross-Domain 3D Object Detection](https://ebooks.iospress.nl/doi/10.3233/FAIA240472)
