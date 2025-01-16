@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruixiao Zhang"
-description              : "Final year PhD candidate in VLC group, Univeristy of Southampton. Research focus: 3D Computer Vision, Cross-domain 3D Object Detection."
+description              : "Final year PhD candidate in the VLC group, Univeristy of Southampton. Research focus: 3D Computer Vision, Cross-domain 3D Object Detection."
 repository               : "Galaxy-ZRX/Galaxy-ZRX.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ruixiao"
+  name             : "Ruixiao Zhang (张 瑞潇)"
   avatar           : "images/DSC_3810.jpg"
   bio              : "University of Southampton"
   location         : "Southampton, United Kingdom"
