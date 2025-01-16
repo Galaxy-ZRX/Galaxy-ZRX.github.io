@@ -40,13 +40,13 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 </div>
 </div>
 
-<div class="badge">ICONIP 2025</div> [Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2408.12708)
+<span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:5px; font-weight:bold;">ICONIP 2025</span> [Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2408.12708)
 
-**Ruixiao Zhang**, Juheon Lee, Xiaohao Cai, Adam Prugel-Bennett, **ICONIP 2025**
+**Ruixiao Zhang**, Juheon Lee, Xiaohao Cai, Adam Prugel-Bennett
 
 ---
 
-<div class="badge">In submission</div> [Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension](https://arxiv.org/pdf/2405.12821)
+<span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:5px; font-weight:bold;">In submission</span> [Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension](https://arxiv.org/pdf/2405.12821)
 
 Runwei Guan, **Ruixiao Zhang**, Ningwei Ouyang, Jianan Liu, Ka Lok Man, Xiaohao Cai, Ming Xu, Jeremy Smith, Eng Gee Lim, Yutao Yue, Hui Xiong
 
