@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 4th year PhD student in the VLC (Vision, Learning and Control) group, University of Southampton. My study and research are mainly focused on 3D object detection problems with images and point cloud data. I obtained my bachelor degree in mathematics and now I am keep improving my skills in coding and research. 
+I am currently a 4th year PhD student in the VLC (Vision, Learning and Control) group, University of Southampton, supervised by [Xiaohao Cai](https://xiaohaocai.netlify.app). My study and research are mainly focused on 3D object detection problems with images and point cloud data. I obtained my Master degree at the University of Southampton in 2021. Before that, I obtained my bachelor degree in Mathematics in 2020. 
 
 My research interest includes: 3D Computer Vision, Cross-domain 3D Object Detection, 3D Visual Grounding.
+
+I am currently looking for postdoc and industrial opportunities in Uinted Kingdom / China. 
 
 
 # 🔥 News
