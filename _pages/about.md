@@ -35,6 +35,9 @@ My research interest includes: 3D Computer Vision, Cross-domain 3D Object Detect
 
 **Ruixiao Zhang**, Yihong Wu, Juheon Lee, Xiaohao Cai, Adam Prugel-Bennett, **ECAI 2024**
 
+</div>
+</div>
+
 ---
 
 [Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2408.12708), **Ruixiao Zhang**, Juheon Lee, Xiaohao Cai, Adam Prugel-Bennett, **ICONIP 2025**
