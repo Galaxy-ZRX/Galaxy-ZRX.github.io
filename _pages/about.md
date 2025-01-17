@@ -32,7 +32,7 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 ## 🚗 3D Object Detection
 
-<div class='paper-box'><div class='paper-box-image' width="60%"><div><div class="badge">ECAI 2024</div><img src='images/edgehead.png' alt="sym" width="100%" align="left"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/edgehead.png' alt="sym" width="60%" align="left"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Detect Closer Surfaces That Can be Seen: New Modeling and Evaluation in Cross-Domain 3D Object Detection](https://ebooks.iospress.nl/doi/10.3233/FAIA240472)
@@ -43,7 +43,7 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/Fig02-1661.png' alt="sym" width="100%" align="left"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/Fig02-1661.png' alt="sym" width="60%" align="left"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2408.12708)
