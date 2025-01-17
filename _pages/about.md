@@ -39,6 +39,8 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 **Ruixiao Zhang**, Yihong Wu, Juheon Lee, Xiaohao Cai, Adam Prugel-Bennett
 
+Considering the properties of LiDAR point cloud, we propose a refinement head named EdgeHead, with two additional evaluation metrics, the CS-BEV and CS-ABS, to focus more on the closer surfaces of detected objects instead of their entire boxes.
+
 </div>
 </div>
 
