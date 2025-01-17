@@ -69,7 +69,6 @@ Runwei Guan, **Ruixiao Zhang**, Ningwei Ouyang, Jianan Liu, Ka Lok Man, Xiaohao 
 
 Runwei Guan, Ka Lok Man, Haocheng Zhao, **Ruixiao Zhang**, Shanliang Yao, Jeremy Smith, Eng Gee Lim, Yutao Yue
 
----
 
 <span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:0px; font-size:12px; display:inline-block；">ECAI 2023</span> [A Bilevel Formalism for the Peer-Reviewing Problem](https://ebooks.iospress.nl/doi/10.3233/FAIA230263)
 
