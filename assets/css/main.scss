@@ -42,7 +42,7 @@
 
 .paper-box {
     display: flex;
-    justify-content: flex-start;
+    justify-content: left;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
@@ -53,10 +53,10 @@
     .paper-box-image{
         justify-content: center;
         display: flex;
-        width: 60%;
+        width: 100%;
         order: 2;
         img {
-            max-width: 250px;
+            max-width: 400px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
