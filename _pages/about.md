@@ -42,9 +42,16 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 </div>
 </div>
 
-<span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:0px; font-size:12px; display:inline-block；">ICONIP 2024</span> [Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2408.12708)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/Fig02-1661.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2408.12708)
 
 **Ruixiao Zhang**, Juheon Lee, Xiaohao Cai, Adam Prugel-Bennett
+
+</div>
+</div>
 
 ---
 
