@@ -46,11 +46,15 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 **Ruixiao Zhang**, Juheon Lee, Xiaohao Cai, Adam Prugel-Bennett
 
+---
+
 ## 📝 3D Visual Grounding
 
 <span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:0px; font-size:12px; display:inline-block；">In submission</span> [Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension](https://arxiv.org/pdf/2405.12821)
 
 Runwei Guan, **Ruixiao Zhang**, Ningwei Ouyang, Jianan Liu, Ka Lok Man, Xiaohao Cai, Ming Xu, Jeremy Smith, Eng Gee Lim, Yutao Yue, Hui Xiong
+
+---
 
 ## Others
 
