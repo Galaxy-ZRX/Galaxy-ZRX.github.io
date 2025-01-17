@@ -26,7 +26,7 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ECAI 2024.
-- *2024.08*: &nbsp;🎉🎉 One paper has been accepted by ICONIP 2025. 
+- *2024.08*: &nbsp;🎉🎉 One paper has been accepted by ICONIP 2024. 
 
 # 📝 Publications 
 
@@ -40,7 +40,7 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 </div>
 </div>
 
-<span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:0px; font-size:12px; display:inline-block；">ICONIP 2025</span> [Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2408.12708)
+<span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:0px; font-size:12px; display:inline-block；">ICONIP 2024</span> [Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2408.12708)
 
 **Ruixiao Zhang**, Juheon Lee, Xiaohao Cai, Adam Prugel-Bennett
 
