@@ -36,7 +36,6 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 <div class='paper-box-text' markdown="1">
 
 [Detect Closer Surfaces That Can be Seen: New Modeling and Evaluation in Cross-Domain 3D Object Detection](https://ebooks.iospress.nl/doi/10.3233/FAIA240472)
-
 [![GitHub stars](https://img.shields.io/github/stars/Galaxy-ZRX/EdgeHead?style=social)](https://github.com/Galaxy-ZRX/EdgeHead)
 
 **Ruixiao Zhang**, Yihong Wu, Juheon Lee, Xiaohao Cai, Adam Prugel-Bennett
