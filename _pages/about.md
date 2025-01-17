@@ -37,6 +37,8 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 [Detect Closer Surfaces That Can be Seen: New Modeling and Evaluation in Cross-Domain 3D Object Detection](https://ebooks.iospress.nl/doi/10.3233/FAIA240472)
 
+[![GitHub stars](https://img.shields.io/github/stars/Galaxy-ZRX/EdgeHead?style=social)](https://github.com/Galaxy-ZRX/EdgeHead)
+
 **Ruixiao Zhang**, Yihong Wu, Juheon Lee, Xiaohao Cai, Adam Prugel-Bennett
 
 Considering the properties of LiDAR point cloud, we propose a refinement head named EdgeHead, with two additional evaluation metrics, the CS-BEV and CS-ABS, to focus more on the closer surfaces of detected objects instead of their entire boxes.
