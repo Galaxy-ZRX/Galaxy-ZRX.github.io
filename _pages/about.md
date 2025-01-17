@@ -43,7 +43,7 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/Fig02-1661.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/Fig02-1661.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2408.12708)
