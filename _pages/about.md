@@ -30,6 +30,8 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 # 📝 Publications 
 
+## 🚗 3D Object Detection
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/edgehead.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,12 +46,15 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 **Ruixiao Zhang**, Juheon Lee, Xiaohao Cai, Adam Prugel-Bennett
 
----
+## 📝 3D Visual Grounding
 
 <span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:0px; font-size:12px; display:inline-block；">In submission</span> [Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension](https://arxiv.org/pdf/2405.12821)
 
 Runwei Guan, **Ruixiao Zhang**, Ningwei Ouyang, Jianan Liu, Ka Lok Man, Xiaohao Cai, Ming Xu, Jeremy Smith, Eng Gee Lim, Yutao Yue, Hui Xiong
 
+## Others
+
+<span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:0px; font-size:12px; display:inline-block；">ECAI 2023</span> [A Bilevel Formalism for the Peer-Reviewing Problem](https://ebooks.iospress.nl/doi/10.3233/FAIA230263)
 
 # 📃 Reviewer Experience
 
