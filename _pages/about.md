@@ -53,7 +53,7 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 </div>
 </div>
 
----
+
 
 ## 🔍 3D Visual Grounding
 
