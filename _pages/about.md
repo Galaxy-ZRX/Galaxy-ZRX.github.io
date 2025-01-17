@@ -57,21 +57,25 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 ## 🔍 3D Visual Grounding
 
-<span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:0px; font-size:12px; display:inline-block；">In submission</span> [Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension](https://arxiv.org/pdf/2405.12821)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/talk2radar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension](https://arxiv.org/pdf/2405.12821)
 
 Runwei Guan, **Ruixiao Zhang**, Ningwei Ouyang, Jianan Liu, Ka Lok Man, Xiaohao Cai, Ming Xu, Jeremy Smith, Eng Gee Lim, Yutao Yue, Hui Xiong
+
+</div>
+</div>
 
 ---
 
 ## Others
 
-<span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:0px; font-size:12px; display:inline-block；">The Journal of Supercomputing</span> [MAN and CAT: mix attention to nn and concatenate attention to YOLO](https://link.springer.com/article/10.1007/s11227-022-04726-7)
-
+<span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:0px; font-size:12px; display:inline-block；">The Journal of Supercomputing</span> [MAN and CAT: mix attention to nn and concatenate attention to YOLO](https://link.springer.com/article/10.1007/s11227-022-04726-7), 
 Runwei Guan, Ka Lok Man, Haocheng Zhao, **Ruixiao Zhang**, Shanliang Yao, Jeremy Smith, Eng Gee Lim, Yutao Yue
 
 
-<span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:0px; font-size:12px; display:inline-block；">ECAI 2023</span> [A Bilevel Formalism for the Peer-Reviewing Problem](https://ebooks.iospress.nl/doi/10.3233/FAIA230263)
-
+<span style="background-color:#1E3A8A; color:white; padding:2px 6px; border-radius:0px; font-size:12px; display:inline-block；">ECAI 2023</span> [A Bilevel Formalism for the Peer-Reviewing Problem](https://ebooks.iospress.nl/doi/10.3233/FAIA230263), 
 Gennaro Auricchio, **Ruixiao Zhang**, Jie Zhang, Xiaohao Cai
 
 # 📃 Reviewer Experience
