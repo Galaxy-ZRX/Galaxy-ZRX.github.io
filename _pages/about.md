@@ -50,7 +50,6 @@ Considering the properties of LiDAR point cloud, we propose a refinement head na
 <div class='paper-box-text' markdown="1">
   
 [Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2408.12708)
-[![GitHub stars](https://img.shields.io/github/stars/Galaxy-ZRX/EdgeHead?style=social)](https://github.com/Galaxy-ZRX/EdgeHead)
 
 **Ruixiao Zhang**, Juheon Lee, Xiaohao Cai, Adam Prugel-Bennett
 
