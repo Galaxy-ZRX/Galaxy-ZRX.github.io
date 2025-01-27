@@ -25,8 +25,9 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ECAI 2024.
-- *2024.08*: &nbsp;🎉🎉 One paper has been accepted by ICONIP 2024. 
+- *2025.01*: &nbsp;🎉🎉 Great news! Our paper Talk2Radar has been accepted by ICRA 2025.
+- *2024.08*: &nbsp;🎉🎉 One paper has been accepted by ICONIP 2024.
+- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ECAI 2024. 
 
 # 📝 Publications 
 
@@ -60,7 +61,7 @@ Considering the properties of LiDAR point cloud, we propose a refinement head na
 
 ## 🔍 3D Visual Grounding
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/talk2radar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/talk2radar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension](https://arxiv.org/pdf/2405.12821)
