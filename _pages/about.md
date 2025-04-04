@@ -40,7 +40,7 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 **Ruixiao Zhang**, Runwei Guan, Xiangyu Chen, Adam Prugel-Bennett, Xiaohao Cai
 
-We propose a novel 3D object detector, coined as CornerPoint3D, which is built upon CenterPoint and uses heatmaps to supervise the learning and detection of the nearest corner of each object. Our proposed methods realize a balanced trade-off between the detection quality of entire bounding boxes and the locating accuracy of closer surfaces to the LiDAR sensor, outperforming the traditional center-based detector CenterPoint in multiple cross-domain tasks and providing a more practically reasonable and robust cross-domain 3D object detection solution.
+We propose a novel 3D object detector named CornerPoint3D, which is built upon CenterPoint and uses heatmaps to supervise the learning and detection of the nearest corner of each object. CornerPoint3D realizes a balanced trade-off between the detection quality of entire bounding boxes and the locating accuracy of closer surfaces to the LiDAR sensor, providing a more practically reasonable and robust cross-domain 3D object detection solution.
 
 </div>
 </div>
