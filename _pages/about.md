@@ -33,7 +33,7 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 ## 🚗 3D Object Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/edgehead.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/cornerpoint3d_structure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CornerPoint3D: Look at the Nearest Corner Instead of the Center](https://arxiv.org/abs/2504.02464)
