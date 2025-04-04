@@ -33,6 +33,18 @@ I am currently looking for postdoc and industrial opportunities in Uinted Kingdo
 
 ## 🚗 3D Object Detection
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/edgehead.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CornerPoint3D: Look at the Nearest Corner Instead of the Center](https://arxiv.org/abs/2504.02464)
+
+**Ruixiao Zhang**, Runwei Guan, Xiangyu Chen, Adam Prugel-Bennett, Xiaohao Cai
+
+We propose a novel 3D object detector, coined as CornerPoint3D, which is built upon CenterPoint and uses heatmaps to supervise the learning and detection of the nearest corner of each object. Our proposed methods realize a balanced trade-off between the detection quality of entire bounding boxes and the locating accuracy of closer surfaces to the LiDAR sensor, outperforming the traditional center-based detector CenterPoint in multiple cross-domain tasks and providing a more practically reasonable and robust cross-domain 3D object detection solution.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/edgehead.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
